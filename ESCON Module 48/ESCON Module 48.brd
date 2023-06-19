@@ -54,7 +54,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
@@ -219,14 +219,14 @@ University of Central Florida</text>
 <hole x="125.73" y="3.81" drill="3.048"/>
 <hole x="186.69" y="3.81" drill="3.048"/>
 <hole x="3.81" y="3.81" drill="3.048"/>
-<dimension x1="0" y1="0" x2="0" y2="101.6" x3="-7.62" y3="50.8" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
-<dimension x1="3.81" y1="100.33" x2="0" y2="100.33" x3="1.905" y3="109.22" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
-<dimension x1="64.77" y1="100.33" x2="3.81" y2="100.33" x3="34.29" y3="107.95" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
-<dimension x1="64.77" y1="100.33" x2="125.73" y2="100.33" x3="95.25" y3="107.95" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
-<dimension x1="186.69" y1="100.33" x2="190.5" y2="100.33" x3="188.595" y3="106.68" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
-<dimension x1="1.27" y1="97.79" x2="1.27" y2="101.6" x3="-5.08" y3="99.695" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
-<dimension x1="1.27" y1="3.81" x2="1.27" y2="97.79" x3="-2.54" y3="50.8" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
-<dimension x1="1.27" y1="3.81" x2="1.27" y2="0" x3="-5.08" y3="1.905" textsize="1.778" layer="20" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="0" x2="0" y2="101.6" x3="-7.62" y3="50.8" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="3.81" y1="100.33" x2="0" y2="100.33" x3="1.905" y3="109.22" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="64.77" y1="100.33" x2="3.81" y2="100.33" x3="34.29" y3="107.95" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="64.77" y1="100.33" x2="125.73" y2="100.33" x3="95.25" y3="107.95" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="186.69" y1="100.33" x2="190.5" y2="100.33" x3="188.595" y3="106.68" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="1.27" y1="97.79" x2="1.27" y2="101.6" x3="-5.08" y3="99.695" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="1.27" y1="3.81" x2="1.27" y2="97.79" x3="-2.54" y3="50.8" textsize="1.778" layer="48" dtype="horizontal" unit="inch"/>
+<dimension x1="1.27" y1="3.81" x2="1.27" y2="0" x3="-5.08" y3="1.905" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="125.73" y1="100.33" x2="186.69" y2="100.33" x3="156.21" y3="107.95" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <dimension x1="0" y1="101.6" x2="190.5" y2="101.6" x3="95.25" y3="111.76" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 </plain>
